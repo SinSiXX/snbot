@@ -1,0 +1,2 @@
+# snbot
+SN Bot - Discord
