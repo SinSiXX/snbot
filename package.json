@@ -1,0 +1,44 @@
+{
+  "name": "snbot",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Shuttle099",
+  "description": "",
+  "dependencies": {
+    "hubot": "^2.18.0",
+    "hubot-calculator": "^0.4.0",
+    "hubot-chicago-sewage": "^1.0.0",
+    "hubot-codenames": "github:mudge/hubot-codenames",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-discord": "github:Shuttle099/hubot-discord",
+    "hubot-google-images": "^0.2.6",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-hammersport": "0.0.1",
+    "hubot-hangman": "^1.3.0",
+    "hubot-help": "^0.1.3",
+    "hubot-maps": "0.0.2",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-remind-advanced": "0.0.4",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.2",
+    "hubot-shipit": "^0.2.0",
+    "hubot-standup-alarm": "0.0.7",
+    "hubot-table-flip": "^0.2.0",
+    "hubot-trivia-game": "^1.0.7",
+    "hubot-victory": "^1.5.2",
+    "hubot-voting": "^1.0.0",
+    "hubot-weather-underground": "^0.1.1",
+    "hubot-wolfram": "^1.0.9",
+    "lomath": "^0.3.0",
+    "mitsuku-api": "^0.1.1",
+    "request": "^2.71.0",
+    "requestify": "^0.1.17",
+    "twit": "^2.2.3"
+  },
+  "scripts": {
+    "start": "bin/hubot -a discord"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-hangman",
+  "hubot-calculator",
+  "hubot-voting",
+  "hubot-victory",
+  "hubot-remind-advanced",
+  "hubot-weather-underground",
+  "hubot-wolfram",
+  "hubot-hammersport",
+  "hubot-table-flip",
+  "hubot-wolfram",
+  "hubot-hammersport",
+  "hubot-standup-alarm",
+  "hubot-trivia-game",
+  "hubot-codenames"
+]
