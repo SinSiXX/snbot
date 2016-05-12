@@ -24,7 +24,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-standup-alarm": "0.0.7",
     "hubot-table-flip": "^0.2.0",
-    "hubot-trivia-game": "^1.0.7",
+    "hubot-trivia-game": "github:Shuttle099/hubot-trivia-game",
     "hubot-victory": "^1.5.2",
     "hubot-voting": "^1.0.0",
     "hubot-weather-underground": "^0.1.1",
